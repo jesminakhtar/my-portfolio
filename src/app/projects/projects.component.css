@@ -1,0 +1,16 @@
+#projects {
+    padding: 50px;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .project h2 {
+    margin-top: 0;
+  }
+  
